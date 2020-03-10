@@ -1,0 +1,39 @@
+
+.form,
+.greeting
+{
+    display : none;
+}
+
+.showing
+{
+    display : block;
+    color : white;
+    text-align : center;
+    font-size : 25px;
+    margin-top : 0px;
+}
+
+body {
+    background-image : url("space.jfif");
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+
+h1 {
+    color:white;
+    text-align :center;
+    margin-top :215px;
+    font-size : 100px;
+    margin-bottom : 12px;
+    
+    
+}
+
+.toDoList {
+    color : white;
+}
+
+.toDoForm {
+    text-align : center;
+}
