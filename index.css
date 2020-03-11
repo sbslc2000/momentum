@@ -15,9 +15,7 @@
 }
 
 body {
-    background-image : url("space.jfif");
-    background-repeat : no-repeat;
-    background-size : cover;
+
 }
 
 h1 {
@@ -31,10 +29,21 @@ h1 {
 }
 
 .toDoList {
+    margin-left : 500px;
     color : white;
-    text-align : center;
+    text-align : left;
 }
 
 .toDoForm {
     text-align : center;
+}
+
+.bgImage {
+    position : absolute;
+    top : 0;
+    left : 0;
+    width : 100%;
+    height : 100%;
+    z-index : -1;
+    
 }
