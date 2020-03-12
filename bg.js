@@ -1,4 +1,4 @@
-const body = document.querySelector("body");
+/*const body = document.querySelector("body");
 const numOfImg = 4;
 
 
@@ -24,3 +24,4 @@ function init()
 }
 
 init()
+*/
